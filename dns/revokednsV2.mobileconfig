@@ -10,7 +10,7 @@
                     <key>DNSProtocol</key>
                     <string>HTTPS</string>
                     <key>ServerURL</key>
-                    <string>coming soon...</string>
+                    <string>https://apple.dns.nextdns.io/e2724a</string>
                 </dict>
                 <key>PayloadDescription</key>
                 <string>made by john220099</string>
